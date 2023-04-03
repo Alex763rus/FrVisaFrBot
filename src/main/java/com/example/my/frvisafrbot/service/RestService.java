@@ -28,14 +28,6 @@ public class RestService {
     public void init() {
         checkUpdate.setChat_id(botConfig.getSourceChatId());
     }
-    //        String requestBody = "{\n" +
-//                "  \"api_key\": \"79992878738:yq55NgdyBrzPTfz85Qs1Dy3dSkLNEHLQx_z2pTJc\",\n" +
-//                "  \"@type\": \"getChatHistory\",\n" +
-//                "  \"chat_id\": \"-1001612884083\",\n" +
-//                "  \"limit\": \"2\",\n" +
-//                "  \"offset\": \"0\",\n" +
-//                "  \"from_message_id\": \"0\"\n" +
-//                "}";
     public String sendPost(String simApiKey) {
         checkUpdate.setApi_key(simApiKey);
         RestTemplate restTemplate = new RestTemplate();

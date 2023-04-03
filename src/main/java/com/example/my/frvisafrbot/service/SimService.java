@@ -24,6 +24,9 @@ public class SimService {
         simList = new LinkedList<>();
         simList.add(botConfig.getSim1ApiKey());
         simList.add(botConfig.getSim2ApiKey());
+        simList.add(botConfig.getSim3ApiKey());
+        simList.add(botConfig.getSim4ApiKey());
+        simList.add(botConfig.getSim5ApiKey());
         resetPointer();
     }
 

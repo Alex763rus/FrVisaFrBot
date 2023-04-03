@@ -23,21 +23,47 @@ public class SrcAnalysisService {
     public List<String> getNewMessages() {
         String jsonData = restService.sendPost(simService.getSim());
         List<String> newMessages = getFilteredMessage(jsonData);
-        if(newMessages.size() == 0){
+        if (newMessages.size() == 0) {
             log.info("New message not a found. Wait...");
         }
         List<String> preparedMessages = new ArrayList<>();
-        for (String message:newMessages) {
+        for (String message : newMessages) {
             preparedMessages.add(getPrepareMessage(message));
         }
         return preparedMessages;
     }
+
     private String getPrepareMessage(String message) {
-        StringBuilder sb = new StringBuilder(message);
-        sb.delete(sb.indexOf("ЗАПИСАТЬСЯ НА САЙТЕ VFS"), sb.length());
-        sb.append("[ЗАПИСАТЬСЯ НА САЙТЕ VFS](https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g)");
+            StringBuilder sb = new StringBuilder(message);
+        try {
+            ArrayList<String> excludeSimbol = new ArrayList<>();
+            excludeSimbol.add("🔔");
+            excludeSimbol.add("🟢");
+            for (String exclude : excludeSimbol) {
+                int indexStart = sb.indexOf(exclude);
+                if (indexStart == -1) {
+                    continue;
+                }
+                sb.delete(indexStart, indexStart + exclude.length() + 1);
+            }
+            String searchStr = "\n\n";
+            while (true) {
+                int index = sb.indexOf(searchStr);
+                if (index == -1) {
+                    break;
+                }
+                sb.replace(index, index + searchStr.length(), "\n");
+            }
+
+            sb.replace(0, sb.indexOf("Short") + 5, "*" + sb.substring(0, sb.indexOf("Short") + 5) + "*");
+            sb.delete(sb.indexOf("ЗАПИСАТЬСЯ НА САЙТЕ VFS"), sb.length());
+            sb.append("[ЗАПИСАТЬСЯ НА САЙТЕ VFS](https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g)");
+        } catch (Exception ex) {
+            log.error(ex.getMessage());
+        }
         return sb.toString();
     }
+
     private List<String> getFilteredMessage(String jsonData) {
         JSONObject jsonObject = new JSONObject(jsonData);
         int messageCount = jsonObject.getInt("total_count");
@@ -49,6 +75,10 @@ public class SrcAnalysisService {
 
         for (int i = 0; i < messageCount; ++i) {
             long tmpMessageId = jsonObject.getJSONArray("messages").getJSONObject(i).getLong("id");
+            if (lastMessageId == 0) {
+                lastMessageId = tmpMessageId;
+                return newMessages;
+            }
             if (i == 0) {
                 tmpLastMessageId = tmpMessageId;
             }

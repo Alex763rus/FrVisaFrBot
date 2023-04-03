@@ -39,6 +39,13 @@ public class BotConfig {
     String sim1ApiKey;
     @Value("${sim2.api.key}")
     String sim2ApiKey;
+    @Value("${sim3.api.key}")
+    String sim3ApiKey;
+    @Value("${sim4.api.key}")
+    String sim4ApiKey;
+    @Value("${sim5.api.key}")
+    String sim5ApiKey;
+
 
     @Value("${day.delay}")
     Long dayDelay;
