@@ -46,7 +46,6 @@ public class BotConfig {
     @Value("${sim5.api.key}")
     String sim5ApiKey;
 
-
     @Value("${day.delay}")
     Long dayDelay;
     @Value("${day.start.hour}")
@@ -55,4 +54,7 @@ public class BotConfig {
     Long nightDelay;
     @Value("${night.start.hour}")
     Integer nightStartHour;
+
+    @Value("${spam.delay}")
+    Long spamDelay;
 }

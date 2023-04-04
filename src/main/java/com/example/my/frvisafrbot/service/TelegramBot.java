@@ -19,6 +19,8 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.api.objects.commands.scope.BotCommandScopeDefault;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 
+import java.time.LocalDateTime;
+
 @Component
 @Slf4j
 public class TelegramBot extends TelegramLongPollingBot {
@@ -39,7 +41,9 @@ public class TelegramBot extends TelegramLongPollingBot {
         } catch (TelegramApiException e) {
             log.error("Error setting bot's command list: " + e.getMessage());
         }
-        log.info("==" + "Server was starded. Version: " + botConfig.getBotVersion() + "==================================================================================================");
+        log.info("==" + "Server was starded. Version: " + botConfig.getBotVersion() + "====================================================================================================================================================================================================");
+        log.info("Current HOUR:" + LocalDateTime.now().getHour());
+        log.info("Settings:" + botConfig);
     }
 
     @Override

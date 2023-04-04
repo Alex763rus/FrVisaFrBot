@@ -1,5 +1,6 @@
 package com.example.my.frvisafrbot.service;
 
+import com.example.my.frvisafrbot.config.BotConfig;
 import lombok.extern.slf4j.Slf4j;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,8 +18,15 @@ public class SrcAnalysisService {
 
     @Autowired
     private SimService simService;
+
+    @Autowired
+    private BotConfig botConfig;
+
+
+    private Long lastSpamMessageTime;
     private long lastMessageId;
 
+    private String lastMessage;
 
     public List<String> getNewMessages() {
         String jsonData = restService.sendPost(simService.getSim());
@@ -39,6 +47,7 @@ public class SrcAnalysisService {
             ArrayList<String> excludeSimbol = new ArrayList<>();
             excludeSimbol.add("🔔");
             excludeSimbol.add("🟢");
+            excludeSimbol.add("⚠️");
             for (String exclude : excludeSimbol) {
                 int indexStart = sb.indexOf(exclude);
                 if (indexStart == -1) {
@@ -55,8 +64,15 @@ public class SrcAnalysisService {
                 sb.replace(index, index + searchStr.length(), "\n");
             }
 
-            sb.replace(0, sb.indexOf("Short") + 5, "*" + sb.substring(0, sb.indexOf("Short") + 5) + "*");
-            sb.delete(sb.indexOf("ЗАПИСАТЬСЯ НА САЙТЕ VFS"), sb.length());
+            String sShort = "Short";
+            String star = "*";
+            if(sb.indexOf(sShort)!=-1) {
+                sb.replace(0, sb.indexOf(sShort) + sShort.length(), star + sb.substring(0, sb.indexOf(sShort) + sShort.length()) + star);
+            }
+            String writeOnSite = "ЗАПИСАТЬСЯ НА САЙТЕ VFS";
+            if(sb.indexOf(writeOnSite)!=-1) {
+                sb.delete(sb.indexOf(writeOnSite), sb.length());
+            }
             sb.append("[ЗАПИСАТЬСЯ НА САЙТЕ VFS](https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g)");
         } catch (Exception ex) {
             log.error(ex.getMessage());
@@ -65,30 +81,39 @@ public class SrcAnalysisService {
     }
 
     private List<String> getFilteredMessage(String jsonData) {
-        JSONObject jsonObject = new JSONObject(jsonData);
-        int messageCount = jsonObject.getInt("total_count");
-        if (messageCount == 0) {
-            return null;
-        }
         List<String> newMessages = new ArrayList<>();
-        long tmpLastMessageId = 0;
-
-        for (int i = 0; i < messageCount; ++i) {
-            long tmpMessageId = jsonObject.getJSONArray("messages").getJSONObject(i).getLong("id");
-            if (lastMessageId == 0) {
-                lastMessageId = tmpMessageId;
-                return newMessages;
+        try {
+            JSONObject jsonObject = new JSONObject(jsonData);
+            int messageCount = jsonObject.getInt("total_count");
+            if (messageCount == 0) {
+                return null;
             }
-            if (i == 0) {
-                tmpLastMessageId = tmpMessageId;
+            long tmpLastMessageId = 0;
+            for (int i = 0; i < messageCount; ++i) {
+                long tmpMessageId = jsonObject.getJSONArray("messages").getJSONObject(i).getLong("id");
+                String message = jsonObject.getJSONArray("messages").getJSONObject(i).getJSONObject("content")
+                        .getJSONObject("text").getString("text");
+                if (lastMessageId == 0) {
+                    lastMessageId = tmpMessageId;
+                    lastMessage = message;
+                    lastSpamMessageTime = System.currentTimeMillis();
+                    return newMessages;
+                }
+                if (i == 0) {
+                    tmpLastMessageId = tmpMessageId;
+                    lastMessage = message;
+                }
+                if (tmpMessageId == lastMessageId
+                        || (lastMessage.equals(message) && ((System.currentTimeMillis() - lastSpamMessageTime) < botConfig.getSpamDelay()))) {
+                    break;
+                }
+                lastSpamMessageTime = System.currentTimeMillis();
+                newMessages.add(message);
             }
-            if (tmpMessageId == lastMessageId) {
-                break;
-            }
-            newMessages.add(jsonObject.getJSONArray("messages").getJSONObject(i).getJSONObject("content")
-                    .getJSONObject("text").getString("text"));
+            lastMessageId = tmpLastMessageId;
+        } catch(Exception ex){
+            log.error(ex.getMessage());
         }
-        lastMessageId = tmpLastMessageId;
         return newMessages;
     }
 }
