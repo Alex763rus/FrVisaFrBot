@@ -31,9 +31,7 @@ public class SrcAnalysisService {
     public List<String> getNewMessages() {
         String jsonData = restService.sendPost(simService.getSim());
         List<String> newMessages = getFilteredMessage(jsonData);
-        if (newMessages.size() == 0) {
-            log.info("New message not a found. Wait...");
-        }
+        log.info("Count messages after filter:" + newMessages.size());
         List<String> preparedMessages = new ArrayList<>();
         for (String message : newMessages) {
             preparedMessages.add(getPrepareMessage(message));
@@ -85,6 +83,7 @@ public class SrcAnalysisService {
         try {
             JSONObject jsonObject = new JSONObject(jsonData);
             int messageCount = jsonObject.getInt("total_count");
+            log.info("Count messages before filter:" + messageCount);
             if (messageCount == 0) {
                 return null;
             }
@@ -94,6 +93,7 @@ public class SrcAnalysisService {
                 String message = jsonObject.getJSONArray("messages").getJSONObject(i).getJSONObject("content")
                         .getJSONObject("text").getString("text");
                 if (lastMessageId == 0) {
+                    log.info("lastMessageId = 0. This is start");
                     lastMessageId = tmpMessageId;
                     lastMessage = message;
                     lastSpamMessageTime = System.currentTimeMillis();
@@ -105,6 +105,7 @@ public class SrcAnalysisService {
                 }
                 if (tmpMessageId == lastMessageId
                         || (lastMessage.equals(message) && ((System.currentTimeMillis() - lastSpamMessageTime) < botConfig.getSpamDelay()))) {
+                    log.info("tmpMessageId == lastMessageId, or message equals lastMessage. tmpMessageId=" + tmpMessageId + ", lastMessageId=" + lastMessageId);
                     break;
                 }
                 lastSpamMessageTime = System.currentTimeMillis();
