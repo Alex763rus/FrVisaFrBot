@@ -1,0 +1,4794 @@
+{
+  "@type": "messages",
+  "total_count": 51,
+  "messages": [
+    {
+      "@type": "message",
+      "id": 2499805184,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": false,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1681832899,
+      "edit_date": 1681833249,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 891,
+        "forward_count": 47,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 3,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 411080216
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 713952470
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 189153673
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 46839889920
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageUnsupported"
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2498756608,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1681101579,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 1778,
+        "forward_count": 7,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 21 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2497708032,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1681100426,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3254,
+        "forward_count": 4,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 21 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2496659456,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680868245,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 4803,
+        "forward_count": 3,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 6,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1392348966
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 504163149
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 781332830
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 43723522048
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 20 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2495610880,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680696089,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 4978,
+        "forward_count": 8,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 7,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 638384836
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 806290900
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 5652887970
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 42379247616
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 19 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2494562304,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680587311,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3693,
+        "forward_count": 7,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 18 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2493513728,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680584658,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3318,
+        "forward_count": 2,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 18 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2492465152,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680582101,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3068,
+        "forward_count": 2,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ПЕРМЬ\n\n🟢 Short Stay All other types of short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 5,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 96,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 120,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 140,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2491416576,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680581123,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3087,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ПЕРМЬ\n\n🟢 Short Stay All other types of short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 5,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 96,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 120,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 140,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2490368000,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680580940,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2991,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ПЕРМЬ\n\n🟢 Short Stay All other types of short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 5,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 96,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 120,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 140,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2489319424,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680580759,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2941,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ПЕРМЬ\n\n🟢 Short Stay All other types of short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 5,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 96,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 120,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 140,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2488270848,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": false,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680529797,
+      "edit_date": 1680531983,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3442,
+        "forward_count": 47,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 14,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1057655177
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1933669787
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1398935349
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 41441820672
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageUnsupported"
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2487222272,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680524039,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3801,
+        "forward_count": 38,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 108,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1337991340
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1282960115
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 41717596160
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 МОСКВА\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 6,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 96,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 120,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 140,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2486173696,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680498499,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3322,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 КРАСНОЯРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 10,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 100,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 124,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 144,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2485125120,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680496249,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 3559,
+        "forward_count": 11,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 7,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1556991991
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 41214476
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 972212545
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 41073770496
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 САНКТ-ПЕТЕРБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 14 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 15,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 105,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 129,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 149,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2484076544,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680496184,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2920,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 1,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 208882742
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 40744517632
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2483027968,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680465936,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2859,
+        "forward_count": 6,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 27,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 781332830
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 755865960
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 638763015
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 40773877760
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 САНКТ-ПЕТЕРБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 14 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 15,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 105,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 129,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 149,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2481979392,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680465751,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2761,
+        "forward_count": 3,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 21,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1673016746
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 628903929
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 431074848
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 40878735360
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 САНКТ-ПЕТЕРБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 13 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 15,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 105,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 129,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 149,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2480930816,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680465475,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2677,
+        "forward_count": 8,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 САНКТ-ПЕТЕРБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 12 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 15,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 105,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 129,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 149,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2479882240,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680268969,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2939,
+        "forward_count": 8,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 16,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 928049881
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 101177633
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 781332830
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 40615542784
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 РОСТОВ-НА-ДОНУ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 14,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 104,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 128,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 148,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2478833664,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680263088,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2869,
+        "forward_count": 2,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2477785088,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680255878,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2968,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 КРАСНОЯРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 10,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 100,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 124,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 144,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2476736512,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680255648,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2612,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 18,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 503010386
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 405683903
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 656808502
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39973814272
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 КРАСНОЯРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 10,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 100,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 124,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 144,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2475687936,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680255056,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2516,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 КРАСНОЯРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 10,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 100,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 124,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 144,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2474639360,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680254743,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2482,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 КРАСНОЯРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 10,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 100,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 124,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 144,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2473590784,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680249340,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2460,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 КРАСНОЯРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 3 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 10,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 99,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 123,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 143,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2472542208,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680249058,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2420,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 КРАСНОЯРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 3 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 10,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 99,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 123,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 143,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2471493632,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680244764,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2490,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 САРАТОВ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 7,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 97,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 121,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 141,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2470445056,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680244040,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2481,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 САРАТОВ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 7,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 97,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 121,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 141,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2469396480,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680191359,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2588,
+        "forward_count": 2,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 6,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 5172551283
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 656808502
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1666095480
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39601569792
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НИЖНИЙ НОВГОРОД\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 15,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 105,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 129,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 149,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2468347904,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680188725,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2519,
+        "forward_count": 2,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 14 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2467299328,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680188572,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2418,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 3,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1282960115
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 5172551283
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 5151425159
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39808139264
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 13 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2466250752,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680187392,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2412,
+        "forward_count": 3,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 22,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 571844790
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 96022063
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 136038100
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39769341952
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 11 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2465202176,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680187264,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2357,
+        "forward_count": 2,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 ЕКАТЕРИНБУРГ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 12,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 102,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 126,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 146,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2464153600,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680183192,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2381,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 2,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1175904237
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 6248978542
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39470497792
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 РОСТОВ-НА-ДОНУ\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 14,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 104,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 128,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 148,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2463105024,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680179974,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2398,
+        "forward_count": 2,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 21,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 405683903
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 925994766
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 600899652
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39596326912
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НИЖНИЙ НОВГОРОД\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 15,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 105,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 129,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 149,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2462056448,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680179792,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2621,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НИЖНИЙ НОВГОРОД\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 15,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 105,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 129,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 149,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2461007872,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680168067,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2340,
+        "forward_count": 2,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2459959296,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680167268,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2301,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2458910720,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680166894,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2228,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2457862144,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680166369,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2190,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2456813568,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680164281,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2158,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 22,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 571844790
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 357886615
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39226179584
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2455764992,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680164190,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2097,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2454716416,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680164020,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2077,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 10,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 571844790
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1095511889
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 1168367444
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39346765824
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2453667840,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680163539,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2103,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2452619264,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680163352,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2140,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2451570688,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680163258,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2175,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 17 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2450522112,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680154333,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2236,
+        "forward_count": 1,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 1,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 354169927
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 39138099200
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2449473536,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680153650,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2201,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2448424960,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680112581,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2251,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 0,
+          "recent_replier_ids": [],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 0
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "@type": "message",
+      "id": 2447376384,
+      "sender_id": {
+        "@type": "messageSenderChat",
+        "chat_id": -1001612884083
+      },
+      "chat_id": -1001612884083,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": false,
+      "can_be_deleted_for_all_users": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": true,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": true,
+      "has_timestamped_media": true,
+      "is_channel_post": true,
+      "contains_unread_mention": false,
+      "date": 1680110083,
+      "edit_date": 0,
+      "interaction_info": {
+        "@type": "messageInteractionInfo",
+        "view_count": 2211,
+        "forward_count": 0,
+        "reply_info": {
+          "@type": "messageReplyInfo",
+          "reply_count": 4,
+          "recent_replier_ids": [
+            {
+              "@type": "messageSenderUser",
+              "user_id": 240694267
+            },
+            {
+              "@type": "messageSenderUser",
+              "user_id": 781332830
+            }
+          ],
+          "last_read_inbox_message_id": 0,
+          "last_read_outbox_message_id": 0,
+          "last_message_id": 38971375616
+        }
+      },
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0.000000,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "@type": "messageText",
+        "text": {
+          "@type": "formattedText",
+          "text": "🔔 НОВОСИБИРСК\n\n🟢 Short Stay All kind of other short stay visas\n\nБлижайшая дата: 10 апреля 2023 г.\n\nЗАПИСАТЬСЯ НА САЙТЕ VFS\nПОЛЕЗНАЯ ИНФОРМАЦИЯ\nОТПРАВИТЬ ДОНАТ👍",
+          "entities": [
+            {
+              "@type": "textEntity",
+              "offset": 3,
+              "length": 11,
+              "type": {
+                "@type": "textEntityTypeBold"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 101,
+              "length": 23,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g=="
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 125,
+              "length": 19,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://t.me/vfs_france/1814"
+              }
+            },
+            {
+              "@type": "textEntity",
+              "offset": 145,
+              "length": 17,
+              "type": {
+                "@type": "textEntityTypeTextUrl",
+                "url": "https://pay.mysbertips.ru/06030299"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "@extra": "2375eb40-6e88-40a6-8861-8c0bc70c381d"
+}

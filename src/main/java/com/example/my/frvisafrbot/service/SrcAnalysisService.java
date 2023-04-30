@@ -2,12 +2,18 @@ package com.example.my.frvisafrbot.service;
 
 import com.example.my.frvisafrbot.config.BotConfig;
 import lombok.extern.slf4j.Slf4j;
+import lombok.val;
 import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
+
+import static com.example.my.frvisafrbot.constant.Constant.NEW_LINE;
+import static com.example.my.frvisafrbot.constant.Constant.STAR;
 
 @Service
 @Slf4j
@@ -39,43 +45,48 @@ public class SrcAnalysisService {
         return preparedMessages;
     }
 
+    private final List<String> whiteList = Arrays.asList("Short", "Ближайшая дата");
+
     private String getPrepareMessage(String message) {
-            StringBuilder sb = new StringBuilder(message);
+        if (checkMessageContent(message) == null) {
+            return null;
+        }
+        val result = new StringBuilder();
+        val tmp = new StringBuilder();
         try {
-            ArrayList<String> excludeSimbol = new ArrayList<>();
-            excludeSimbol.add("🔔");
-            excludeSimbol.add("🟢");
-            excludeSimbol.add("⚠️");
+            val excludeSimbol = Arrays.asList("🔔", "🟢", "⚠️");
+            val replaceSimbol = Map.of(NEW_LINE + NEW_LINE, NEW_LINE, "Short", STAR + "Short" + STAR);
+            //Заменяем найденное
+            for (Map.Entry<String, String> entry : replaceSimbol.entrySet()) {
+                message = message.replace(entry.getKey(), entry.getValue());
+            }
+            tmp.append(message);
+            //Удаляем ненужное
             for (String exclude : excludeSimbol) {
-                int indexStart = sb.indexOf(exclude);
+                int indexStart = tmp.indexOf(exclude);
                 if (indexStart == -1) {
                     continue;
                 }
-                sb.delete(indexStart, indexStart + exclude.length() + 1);
+                tmp.delete(indexStart, indexStart + exclude.length() + 1);
             }
-            String searchStr = "\n\n";
-            while (true) {
-                int index = sb.indexOf(searchStr);
-                if (index == -1) {
-                    break;
+            val lines = tmp.toString().split(NEW_LINE);
+            boolean isFirst = true;
+            for (String line : lines) {
+                if (isFirst) {
+                    result.append(STAR).append(line).append(STAR).append(NEW_LINE);
+                    isFirst = false;
                 }
-                sb.replace(index, index + searchStr.length(), "\n");
+                for (String whiteListWord : whiteList) {
+                    if (line.contains(whiteListWord)) {
+                        result.append(line).append(NEW_LINE);
+                    }
+                }
             }
-
-            String sShort = "Short";
-            String star = "*";
-            if(sb.indexOf(sShort)!=-1) {
-                sb.replace(0, sb.indexOf(sShort) + sShort.length(), star + sb.substring(0, sb.indexOf(sShort) + sShort.length()) + star);
-            }
-            String writeOnSite = "ЗАПИСАТЬСЯ НА САЙТЕ VFS";
-            if(sb.indexOf(writeOnSite)!=-1) {
-                sb.delete(sb.indexOf(writeOnSite), sb.length());
-            }
-            sb.append("[ЗАПИСАТЬСЯ НА САЙТЕ VFS](https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g)");
+            result.append("[ЗАПИСАТЬСЯ НА САЙТЕ VFS](https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g)");
         } catch (Exception ex) {
-            log.error(ex.getMessage());
+            int x = 0;
         }
-        return sb.toString();
+        return result.toString();
     }
 
     private List<String> getFilteredMessage(String jsonData) {
@@ -109,12 +120,26 @@ public class SrcAnalysisService {
                     break;
                 }
                 lastSpamMessageTime = System.currentTimeMillis();
-                newMessages.add(message);
+                if (message != null) {
+                    newMessages.add(message);
+                } else {
+                    log.info("Did not pass the test checkMessageContent");
+                }
             }
             lastMessageId = tmpLastMessageId;
-        } catch(Exception ex){
+        } catch (Exception ex) {
             log.error(ex.getMessage());
         }
         return newMessages;
+    }
+
+    private String checkMessageContent(String message) {
+        //Проверка сообщения на ключевые слова
+        for (String whiteListWord : whiteList) {
+            if (message.indexOf(whiteListWord) == -1) {
+                return null;
+            }
+        }
+        return message;
     }
 }

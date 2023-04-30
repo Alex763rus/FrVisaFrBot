@@ -6,7 +6,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -25,8 +24,6 @@ public class SimService {
         simList.add(botConfig.getSim1ApiKey());
         simList.add(botConfig.getSim2ApiKey());
         simList.add(botConfig.getSim3ApiKey());
-        simList.add(botConfig.getSim4ApiKey());
-        simList.add(botConfig.getSim5ApiKey());
         resetPointer();
     }
 

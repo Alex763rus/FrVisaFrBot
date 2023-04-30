@@ -11,6 +11,8 @@ import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
 import com.example.my.frvisafrbot.config.BotConfig;
 
+import static com.example.my.frvisafrbot.constant.Constant.NEW_LINE;
+
 @Service
 @Slf4j
 public class DistributionService {
@@ -32,7 +34,7 @@ public class DistributionService {
     @PreDestroy
     public void squeezyExit() {
         StringBuilder message = new StringBuilder(EmojiParser.parseToUnicode(Emoji.ROBOT_FACE.getCode())).append(" telegramm bot will be *STOPPED*!\n");
-        message.append("Version: ").append(botConfig.getBotVersion()).append("\n");
+        message.append("Version: ").append(botConfig.getBotVersion()).append(NEW_LINE);
         message.append("*Buy!*");
         sendMessage(botConfig.getAdminChatId(), message.toString());
     }

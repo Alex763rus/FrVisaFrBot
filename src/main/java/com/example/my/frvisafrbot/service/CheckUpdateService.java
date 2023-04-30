@@ -39,13 +39,17 @@ public class CheckUpdateService implements Runnable {
     public void run() {
         try {
             List<String> newMessages;
+            Long delay;
             while (true) {
+                log.info("Start post request process.");
                 newMessages = srcAnalysisService.getNewMessages();
                 for (String message : newMessages) {
                     distributionService.sendTgMessageToChanel(message);
                 }
                 newMessages.clear();
-                Thread.sleep(delayService.getDelay());
+                delay = delayService.getDelay();
+                log.info("End post request process. Next post request after:" + delayService.getDelay());
+                Thread.sleep(delay);
             }
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
