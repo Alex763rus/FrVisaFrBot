@@ -82,9 +82,9 @@ public class SrcAnalysisService {
                     }
                 }
             }
-            result.append("[ЗАПИСАТЬСЯ НА САЙТЕ VFS](https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g)");
+            result.append(botConfig.getMessageLink());
         } catch (Exception ex) {
-            int x = 0;
+            log.error(ex.getMessage());
         }
         return result.toString();
     }

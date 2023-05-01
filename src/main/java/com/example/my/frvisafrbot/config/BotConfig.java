@@ -32,6 +32,8 @@ public class BotConfig {
     @Value("${admin.chatid}")
     String adminChatId;
 
+    @Value("${message.link}")
+    String messageLink;
     @Value("${bot.token}")
     String botToken;
 
