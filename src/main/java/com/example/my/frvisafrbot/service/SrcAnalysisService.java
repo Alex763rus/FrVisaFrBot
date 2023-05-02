@@ -45,7 +45,7 @@ public class SrcAnalysisService {
         return preparedMessages;
     }
 
-    private final List<String> whiteList = Arrays.asList("Short", "Ближайшая дата");
+    private final List<String> whiteList = Arrays.asList("Short", "Доступные даты");
 
     private String getPrepareMessage(String message) {
         if (checkMessageContent(message) == null) {

@@ -41,8 +41,7 @@ public class TelegramBot extends TelegramLongPollingBot {
         } catch (TelegramApiException e) {
             log.error("Error setting bot's command list: " + e.getMessage());
         }
-        log.info("==" + "Server was starded. Version: " + botConfig.getBotVersion() + "====================================================================================================================================================================================================");
-        log.info("Current HOUR:" + LocalDateTime.now().getHour());
+        log.info("======<Server was starded>====================================================================================================================================================================================================");
         log.info("Settings:" + botConfig);
     }
 

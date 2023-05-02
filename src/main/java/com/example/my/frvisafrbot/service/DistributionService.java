@@ -27,19 +27,20 @@ public class DistributionService {
     @PostConstruct
     public void init() {
         StringBuilder message = new StringBuilder(EmojiParser.parseToUnicode(Emoji.ROBOT_FACE.getCode())).append(" telegramm bot was started!\n");
-        message.append("Version: ").append(botConfig.getBotVersion());
         sendMessage(botConfig.getAdminChatId(), message.toString());
     }
 
     @PreDestroy
     public void squeezyExit() {
         StringBuilder message = new StringBuilder(EmojiParser.parseToUnicode(Emoji.ROBOT_FACE.getCode())).append(" telegramm bot will be *STOPPED*!\n");
-        message.append("Version: ").append(botConfig.getBotVersion()).append(NEW_LINE);
         message.append("*Buy!*");
         sendMessage(botConfig.getAdminChatId(), message.toString());
     }
 
     public void sendTgMessageToChanel(String message) {
+        if(message == null){
+            return;
+        }
         sendMessage(botConfig.getTargetChatId().toString(), message);
     }
 

@@ -41,7 +41,6 @@ public class CheckUpdateService implements Runnable {
             List<String> newMessages;
             Long delay;
             while (true) {
-                log.info("Start post request process.");
                 newMessages = srcAnalysisService.getNewMessages();
                 for (String message : newMessages) {
                     distributionService.sendTgMessageToChanel(message);

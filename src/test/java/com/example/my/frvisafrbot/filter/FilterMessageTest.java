@@ -16,7 +16,7 @@ public class FilterMessageTest {
             NEW_LINE +
             "\uD83D\uDFE2 Short Stay All kind of other short stay visas\n" +
             NEW_LINE +
-            "Ближайшая дата: 14 апреля 2023 г.\n" +
+            "Доступные даты: 14 апреля 2023 г.\n" +
             NEW_LINE +
             "ЗАПИСАТЬСЯ НА САЙТЕ VFS\n" +
             " (https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g==)ПОЛЕЗНАЯ ИНФОРМАЦИЯ\n" +
@@ -28,7 +28,7 @@ public class FilterMessageTest {
             "Собрал в одном месте всю полезную информацию и сервисы для подписчиков канала @vfs_france";
     private final String EXPECTED_RESULT_OK = "*САНКТ-ПЕТЕРБУРГ*\n" +
             "*Short* Stay All kind of other short stay visas\n" +
-            "Ближайшая дата: 14 апреля 2023 г.\n" +
+            "Доступные даты: 14 апреля 2023 г.\n" +
             "[ЗАПИСАТЬСЯ НА САЙТЕ VFS](https://www.vfsvisaservicesrussia.com/Global-Appointment/Account/RegisteredLogin?q=shSA0YnE4pLF9Xzwon/x/BGxVUxGuaZP3eMAtGHiEL0kQAXm+Lc2PfVNUJtzf7vWRu19bwvTWMZ48njgDU5r4g)";
 
 
@@ -40,10 +40,20 @@ public class FilterMessageTest {
             "Отслеживание на новом сайте постараемся начать как можно скорее.";
 
 
+    private final String NEW_MESSAGE = "\uD83D\uDFE2 МОСКВА\n" +
+            "\n" +
+            "Short Stay All kind of other short stay visas\n" +
+            "\n" +
+            "Доступные даты: 04.05\n" +
+            "\n" +
+            "ЗАПИСАТЬСЯ НА САЙТЕ VFS (https://visa.vfsglobal.com/rus/en/fra/login)\n" +
+            "ОТПРАВИТЬ ДОНАТ\uD83D\uDC4D (https://pay.mysbertips.ru/06030299)";
     @Test
     public void getPrepareMessageTest() {
         Assertions.assertEquals(EXPECTED_RESULT_OK, getPrepareMessage(INPUT_MESSAGE_OK));
         Assertions.assertNull(getPrepareMessage(INPUT_MESSAGE_ERROR));
+
+        System.out.println(getPrepareMessage(NEW_MESSAGE));
     }
 
     private String getPrepareMessage(String message) {
@@ -55,7 +65,7 @@ public class FilterMessageTest {
         try {
             val excludeSimbol = Arrays.asList("🔔", "🟢", "⚠️");
             val replaceSimbol = Map.of(NEW_LINE + NEW_LINE, NEW_LINE, "Short", STAR + "Short" + STAR);
-            val whiteList = Arrays.asList("Short", "Ближайшая дата");
+            val whiteList = Arrays.asList("Short", "Доступные даты");
 
             //Заменяем найденное
             for (Map.Entry<String, String> entry : replaceSimbol.entrySet()) {
@@ -91,7 +101,7 @@ public class FilterMessageTest {
     }
 
     private String checkMessageContent(String message) {
-        val whiteList = Arrays.asList("Short", "Ближайшая дата");
+        val whiteList = Arrays.asList("Short", "Доступные даты");
         //Проверка сообщения на ключевые слова
         for (String whiteListWord : whiteList) {
             if (message.indexOf(whiteListWord) == -1) {
